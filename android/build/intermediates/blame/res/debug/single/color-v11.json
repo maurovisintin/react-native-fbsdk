@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/70e21091d9c1a33fbeaf2a1d27843bb86c857a2e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mvlaptop/Dev/react-native/OreeLatest/node_modules/react-native-fbsdk/android/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mvlaptop/.android/build-cache/70e21091d9c1a33fbeaf2a1d27843bb86c857a2e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
